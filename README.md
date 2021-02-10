@@ -4,7 +4,7 @@
 
 ###### JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
 
-## Some features of JsonPowerDB are:
+### Some features of JsonPowerDB are:
 
 * Nimble, simple to use, im memory, real time
 * Schema free - easy to maintain
@@ -16,3 +16,7 @@
 * Inbuilt support for querying multiple databases
 * Serverside Native NoSQL - best performance
 * Multi-mode databse - One solution to a variety of data
+
+### Screenshots
+
+![Database](/screenshots/db_ss.jpg)
