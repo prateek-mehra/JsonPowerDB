@@ -18,5 +18,9 @@
 * Multi-mode databse - One solution to a variety of data
 
 ### Screenshots
-
-![Create operation:](/Assets/screenshots/create_ss.JPG)
+![](/Assets/screenshots/index_ss.JPG)
+![](/Assets/screenshots/create_ss.JPG)
+![](/Assets/screenshots/retrieve_ss.JPG)
+![](/Assets/screenshots/update_ss.JPG)
+![](/Assets/screenshots/delete_ss.JPG)
+![](/Assets/screenshots/db_ss.JPG)
