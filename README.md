@@ -19,4 +19,4 @@
 
 ### Screenshots
 
-![Database](/screenshots/db_ss.jpg)
+![Database](../../Assets/screenshots/create_ss.jpg)
