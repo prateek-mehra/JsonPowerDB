@@ -20,7 +20,7 @@
 ### Use cases:
 
 * All RDMS use cases.
-* All key0value use cases.
+* All key-value use cases.
 * All document use cases.
 * Time series/geospatial analytics.
 * Real time application for data analytics.
